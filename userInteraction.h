@@ -1,0 +1,2 @@
+long ramMem ();
+void info();
